@@ -4,7 +4,7 @@ Description: FilzaDirProbe 汉化
 Maintainer: you
 Author: you
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0-1+debug
 Installed-Size: 76
 Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm.deb
