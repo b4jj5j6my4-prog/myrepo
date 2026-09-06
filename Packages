@@ -14,6 +14,40 @@ Size: 6884
 MD5sum: 5eb6527d29400730780bbc940fb589ae
 SHA256: dfc8413a26f7f7131890d76895a28fd4b11d7f24c10a25b8cbaa9572852f18f9
 
+Package: com.futur3sn0w.ccaster
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccaster.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccaster.json
+Name: CCAster
+Description: An iOS 18-inspired, editable Control Center experience for iOS 16.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Section: Tweaks
+Depends: firmware (>= 16.0), firmware (<< 17.0), ellekit, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.2.2
+Installed-Size: 1616
+Filename: deb/CCAster-0.2.2-iphoneos-arm64.deb
+Size: 388642
+MD5sum: 7885101ff6cdbacc713af520e51d9f6d
+SHA256: 818d542b6c845dda83d953dd8ddc9eb40f72f119d91bfcd8936d613fd490595f
+
+Package: byg.iosios.net.picsew.rootless
+Version: 1.0.0
+Section: 自研插件
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Installed-Size: 120
+Name: Picsew长截图 破解-Rootless
+Author: x✨
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+Description: App Store搜索Picsew，一款非常好用的长截图软件！本插件已默认解除Pro权限，如果无效请删除重下软件，测试版本号为3.11.4！无任何广告弹窗！搬运工源永不收费，只为给大家带来越狱的乐趣，浑浊的世界总需要一点清明！感谢嘉嘉一直为大家带来实用的插件！爱你！
+Filename: deb/Picsew_Rootless_1.0.0_iphoneos-arm64.deb
+Size: 31028
+MD5sum: 3eefb3ad2d2af79b089c10bf005a5177
+SHA256: 7372c58234c8d96d5d91f8bccb2f882f01e2effc02c04597f11befc89f210f6d
+
 Package: com.sini.chromatic
 Name: Saily(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
@@ -44,6 +78,21 @@ Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e.deb
 Size: 2216996
 MD5sum: 347c7bb0c1e859d252950586e3f1370a
 SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
+
+Package: com.vv.filzaseparator
+Name: Filza去分割线VV
+Description: Filza全局去除列表分割线
+Maintainer: VV
+Author: VV
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.0-2+debug
+Installed-Size: 168
+Filename: deb/com.vv.filzaseparator_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 3516
+MD5sum: 41ed8b576d954f8d673408ff95f04961
+SHA256: 7c654c86899bbba3ac894d475753d147506df9cfa487a4ae46d0dbd07cf7d1da
 
 Package: com.yourcompany.filzacn
 Name: FilzaCN
@@ -76,3 +125,18 @@ Filename: deb/dylv.liquidass_0.1.1b_iphoneos-arm64e.deb
 Size: 3625422
 MD5sum: 2c68d47f4c1d96aa20a3aa3a15640b1e
 SHA256: 8ec6af38ae57ad53fd1699f797a5fee5dcb1fe6a8c825c96ec024d06c3c73e1a
+
+Package: neofetch
+Maintainer: LF
+Icon: https://repo.cypwn.xyz/packages/NeofetchInstaller-Rootless/icon.png
+Section: System
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Depends: bash, coreutils, coreutils-bin, darwintools, system-cmds, gawk, grep
+Description: Neofetch是一个用bash编写的命令行系统信息工具。Neofetch以美观和视觉上令人愉悦的方式显示有关您的操作系统、软件和硬件的信息。兼容bash2.3+，LF为它提供了汉化版本！
+Name: Neofetch Installer
+Author: halo_michael
+Filename: deb/neofetch_1.2.3_iphoneos-arm64e.deb
+Size: 85404
+MD5sum: 791b17f68929e3aba90c98ecc198abe1
+SHA256: bf8b4f84d797020ac5bcc7732f80a7a587fbb7f4a8c8289f97f7368b4181666c
