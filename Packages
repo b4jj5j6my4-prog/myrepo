@@ -1,3 +1,18 @@
+Package: com.opa334.trollstorelite
+Name: TrollStore Lite (RootHide)
+Description: TrollStore for RootHide jailbroken iOS
+Depends: ldid
+Maintainer: opa334
+Author: opa334
+Section: Applications
+Architecture: iphoneos-arm6464e
+Version: 2.1.1
+Installed-Size: 8140
+Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e (1).deb
+Size: 2216996
+MD5sum: 347c7bb0c1e859d252950586e3f1370a
+SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
+
 Package: com.yourcompany.filzacn
 Name: FilzaCN
 Description: FilzaDirProbe 汉化
@@ -11,3 +26,21 @@ Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm.deb
 Size: 4252
 MD5sum: d1999645470ca6cf8c1d31cce7f18c76
 SHA256: 83ea188d69cd6aed85102dd18d40c0274b6d27481271490ac1a520075b462868
+
+Package: dylv.liquidass
+Name: Liquid (Gl)ass
+Description: next level diarrhea
+Maintainer: dylv
+Author: dylv
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Replaces: dylv.blurless
+Conflicts: dylv.blurless
+Architecture: iphoneos-arm6464e
+Version: 0.1.1b
+Installed-Size: 8208
+Filename: deb/dylv.liquidass_0.1.1b_iphoneos-arm64e.deb
+Size: 3625422
+MD5sum: 2c68d47f4c1d96aa20a3aa3a15640b1e
+SHA256: 8ec6af38ae57ad53fd1699f797a5fee5dcb1fe6a8c825c96ec024d06c3c73e1a
