@@ -62,6 +62,19 @@ Size: 2216996
 MD5sum: 347c7bb0c1e859d252950586e3f1370a
 SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
 
+Package: com.empty-theos.ad
+Name: Theos
+Architecture: iphoneos-arm64e
+Author: 网络
+Version: 1.0
+Installed-Size: 603.1MB
+Description: iOS Theos
+  - 沒有SDK的theos
+Filename: deb/com.empty-theos.ad_1.0_iphoneos-arm64e .deb
+Size: 16669740
+MD5sum: 0e909fcf2d3390a88890ce261834b36e
+SHA256: df8e385ce882db7b9a012e15dc2bf46d636ede1c8025ae33d69b9dfe2a712037
+
 Package: com.vv.filzaseparator
 Name: Filza去分割线VV
 Description: Filza全局去除列表分割线
@@ -76,6 +89,20 @@ Filename: deb/com.vv.filzaseparator_1.0.0-2+debug_iphoneos-arm64.deb
 Size: 3516
 MD5sum: 41ed8b576d954f8d673408ff95f04961
 SHA256: 7c654c86899bbba3ac894d475753d147506df9cfa487a4ae46d0dbd07cf7d1da
+
+Package: com.wkk.sdk16.5
+Version: 1.0
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Architecture: iphoneos-arm64e
+Name: iPhonesdk
+Maintainer: 网络
+Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
+  * 给需要的人，不会别玩也别问。
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: deb/com.wkk.sdk16.5_1.0_iphoneos-arm64e.deb
+Size: 34899596
+MD5sum: 70cc538920be60848f59615df1e6b982
+SHA256: 853d7a07fb2a9f659002fd00a9e3db7d79f2ee6c05796cd6f7cdcf7ff3303093
 
 Package: com.yourcompany.filzacn
 Name: FilzaCN
