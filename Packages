@@ -19,13 +19,13 @@ Description: FilzaDirProbe 汉化
 Maintainer: you
 Author: you
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0-1+debug
 Installed-Size: 76
-Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm.deb
-Size: 4252
-MD5sum: d1999645470ca6cf8c1d31cce7f18c76
-SHA256: 83ea188d69cd6aed85102dd18d40c0274b6d27481271490ac1a520075b462868
+Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
+Size: 4168
+MD5sum: 26682e208abdb8d9ae9034f5ee755f0c
+SHA256: cfca716cdc6abad91134ac8e0d9efbe448b13367227c1d72b55bb415b8786041
 
 Package: dylv.liquidass
 Name: Liquid (Gl)ass
