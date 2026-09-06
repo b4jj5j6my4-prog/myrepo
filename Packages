@@ -5,7 +5,7 @@ Depends: ldid
 Maintainer: opa334
 Author: opa334
 Section: Applications
-Architecture: iphoneos-arm6464e
+Architecture: iphoneos-arm64e
 Version: 2.1.1
 Installed-Size: 8140
 Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e (1).deb
@@ -19,7 +19,7 @@ Description: FilzaDirProbe 汉化
 Maintainer: you
 Author: you
 Section: Tweaks
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Version: 1.0-1+debug
 Installed-Size: 76
 Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm.deb
@@ -37,7 +37,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), 
 Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
 Replaces: dylv.blurless
 Conflicts: dylv.blurless
-Architecture: iphoneos-arm6464e
+Architecture: iphoneos-arm64e
 Version: 0.1.1b
 Installed-Size: 8208
 Filename: deb/dylv.liquidass_0.1.1b_iphoneos-arm64e.deb
