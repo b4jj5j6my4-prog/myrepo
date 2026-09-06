@@ -1,0 +1,11 @@
+Package: com.sini.chromatic
+Name: Saily(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
+Description: 越狱包管理器
+Author: Saily Team <support.0xa1@qaq.wiki>
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Version: 3.0
+Section: 越狱应用
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Architecture: iphoneos-arm64e

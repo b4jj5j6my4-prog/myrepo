@@ -1,3 +1,35 @@
+Package: 26tb
+Name: 26TB
+Description: iOS26样式悬浮底栏，系统全局，不支持的APP请使用Choicy禁止插件注入（wkk制作）
+Maintainer: wkk
+Author: wkk
+Section: Tweaks调整
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Icon: https://img2024.cnblogs.com/blog/3457650/202509/3457650-20250919113024044-461720498.png
+Installed-Size: 168
+Filename: deb/26TB.deb
+Size: 6884
+MD5sum: 5eb6527d29400730780bbc940fb589ae
+SHA256: dfc8413a26f7f7131890d76895a28fd4b11d7f24c10a25b8cbaa9572852f18f9
+
+Package: com.sini.chromatic
+Name: Saily(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
+Description: 越狱包管理器
+Author: Saily Team <support.0xa1@qaq.wiki>
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Version: 3.0
+Section: 越狱应用
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Architecture: iphoneos-arm64e
+Filename: deb/Saily(roothide)-3.0-iphoneos-arm64e .deb
+Size: 3362356
+MD5sum: 3d00fa4b7f7077f43d008f24c8aa7098
+SHA256: cd89fc9aa032b62424df89a75956416b667cc87fe7419c873df948fb82daeada
+
 Package: com.opa334.trollstorelite
 Name: TrollStore Lite (RootHide)
 Description: TrollStore for RootHide jailbroken iOS
@@ -8,7 +40,7 @@ Section: Applications
 Architecture: iphoneos-arm64e
 Version: 2.1.1
 Installed-Size: 8140
-Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e (1).deb
+Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e .deb
 Size: 2216996
 MD5sum: 347c7bb0c1e859d252950586e3f1370a
 SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
