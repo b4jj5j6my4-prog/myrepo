@@ -1,9 +1,0 @@
-Package: com.yourcompany.filzacn
-Name: FilzaCN
-Description: FilzaDirProbe 汉化
-Maintainer: you
-Author: you
-Section: Tweaks
-Architecture: iphoneos-arm64
-Version: 1.0-1+debug
-Installed-Size: 76

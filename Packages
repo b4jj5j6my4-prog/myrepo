@@ -25,7 +25,7 @@ Version: 3.0
 Section: 越狱应用
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools
 Architecture: iphoneos-arm64e
-Filename: deb/Saily(roothide)-3.0-iphoneos-arm64e .deb
+Filename: deb/Saily_roothide_3.0_iphoneos-arm64e.deb
 Size: 3362356
 MD5sum: 3d00fa4b7f7077f43d008f24c8aa7098
 SHA256: cd89fc9aa032b62424df89a75956416b667cc87fe7419c873df948fb82daeada
@@ -40,7 +40,7 @@ Section: Applications
 Architecture: iphoneos-arm64e
 Version: 2.1.1
 Installed-Size: 8140
-Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e .deb
+Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e.deb
 Size: 2216996
 MD5sum: 347c7bb0c1e859d252950586e3f1370a
 SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
