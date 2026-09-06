@@ -31,23 +31,6 @@ Size: 388642
 MD5sum: 7885101ff6cdbacc713af520e51d9f6d
 SHA256: 818d542b6c845dda83d953dd8ddc9eb40f72f119d91bfcd8936d613fd490595f
 
-Package: byg.iosios.net.picsew.rootless
-Version: 1.0.0
-Section: 自研插件
-Maintainer: 搬运工
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Installed-Size: 120
-Name: Picsew长截图 破解-Rootless
-Author: x✨
-Sponsor: 搬运工
-Icon: https://chinesebuilding.club/pic/cydia.png
-Description: App Store搜索Picsew，一款非常好用的长截图软件！本插件已默认解除Pro权限，如果无效请删除重下软件，测试版本号为3.11.4！无任何广告弹窗！搬运工源永不收费，只为给大家带来越狱的乐趣，浑浊的世界总需要一点清明！感谢嘉嘉一直为大家带来实用的插件！爱你！
-Filename: deb/Picsew_Rootless_1.0.0_iphoneos-arm64.deb
-Size: 31028
-MD5sum: 3eefb3ad2d2af79b089c10bf005a5177
-SHA256: 7372c58234c8d96d5d91f8bccb2f882f01e2effc02c04597f11befc89f210f6d
-
 Package: com.sini.chromatic
 Name: Saily(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
