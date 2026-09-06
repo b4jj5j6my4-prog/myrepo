@@ -62,21 +62,6 @@ Size: 2216996
 MD5sum: 347c7bb0c1e859d252950586e3f1370a
 SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
 
-Package: cn.zqbb.jailfools
-Name: JailFools
-Section: Applications
-Depends: firmware (>= 15.0)
-Author: zqbb <zqbbzz@gmail.com>
-Description: Give me 108 yuan.
-SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
-Architecture: iphoneos-arm64e
-Version: 5.2.3
-Installed-Size: 17696
-Filename: deb/cn.zqbb.jailfools_5.2.3_iphoneos-arm64e.deb
-Size: 5288088
-MD5sum: a95bee4962bc9eb360e8211a78e8bf7a
-SHA256: 2a8ebe7cc0a04fde307e41863426ec7c3c05261560b69e2d3756b461b8656863
-
 Package: com.empty-theos.ad
 Name: Theos
 Architecture: iphoneos-arm64e
