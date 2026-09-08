@@ -75,6 +75,21 @@ Size: 16669740
 MD5sum: 0e909fcf2d3390a88890ce261834b36e
 SHA256: df8e385ce882db7b9a012e15dc2bf46d636ede1c8025ae33d69b9dfe2a712037
 
+Package: com.fate.filzabackground
+Name: Filza Background
+Description: Add a background image manager to Filza settings. Supports Photos and Files app image import.
+Maintainer: me
+Author: me
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.1.1-23+debug
+Installed-Size: 176
+Filename: deb/com.fate.filzabackground_1.1.1-23+debug_iphoneos-arm64e.deb
+Size: 18476
+MD5sum: b2c95e5a5f68e0ff22d8032230c3e66c
+SHA256: c98be33b20fc7152eb78184f42213d4f37cdadcbfeb30406712bf98cc53ebe57
+
 Package: com.vv.filzaseparator
 Name: Filza去分割线VV
 Description: Filza全局去除列表分割线
