@@ -1,51 +1,3 @@
-Package: com.futur3sn0w.ccaster
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccaster.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccaster.json
-Name: CCAster
-Description: An iOS 18-inspired, editable Control Center experience for iOS 16.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Section: Tweaks
-Depends: firmware (>= 16.0), firmware (<< 17.0), ellekit, preferenceloader
-Architecture: iphoneos-arm64
-Version: 0.2.2
-Installed-Size: 1616
-Filename: deb/CCAster-0.2.2-iphoneos-arm64.deb
-Size: 388642
-MD5sum: 7885101ff6cdbacc713af520e51d9f6d
-SHA256: 818d542b6c845dda83d953dd8ddc9eb40f72f119d91bfcd8936d613fd490595f
-
-Package: com.sini.chromatic
-Name: Saily(roothide)
-Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
-Description: 越狱包管理器
-Author: Saily Team <support.0xa1@qaq.wiki>
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Version: 3.0
-Section: 越狱应用
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Architecture: iphoneos-arm64e
-Filename: deb/Saily_roothide_3.0_iphoneos-arm64e.deb
-Size: 3362356
-MD5sum: 3d00fa4b7f7077f43d008f24c8aa7098
-SHA256: cd89fc9aa032b62424df89a75956416b667cc87fe7419c873df948fb82daeada
-
-Package: com.opa334.trollstorelite
-Name: TrollStore Lite (RootHide)
-Description: TrollStore for RootHide jailbroken iOS
-Depends: ldid
-Maintainer: opa334
-Author: opa334
-Section: Applications
-Architecture: iphoneos-arm64e
-Version: 2.1.1
-Installed-Size: 8140
-Filename: deb/TrollStoreLite_2.1.1_RootHide_iphoneos-arm64e.deb
-Size: 2216996
-MD5sum: 347c7bb0c1e859d252950586e3f1370a
-SHA256: ca0bbc4714fad53f358d94126b97221e35c9a37f761c5474aafcacdcce9f5c33
-
 Package: com.fate.filzabackground
 Name: Filza Background
 Description: Add a background image manager to Filza settings. Supports Photos and Files app image import.
@@ -92,48 +44,15 @@ SHA256: cfca716cdc6abad91134ac8e0d9efbe448b13367227c1d72b55bb415b8786041
 
 Package: com.yourname.filabg
 Name: FilaBG
-Description: 给 Fila 文件管理器添加自定义背景图
-Maintainer: yourname
-Author: yourname
+Description: 给 Fila 文件管理器添加自定义背景图放图路径是 var/jbmobile/Documents/FilaBG 里
+Maintainer:时间会惩罚我
+Author:时间会惩罚我
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 0.0.1-56+debug
+Version: 0.0.1-57
 Installed-Size: 84
-Filename: deb/com.yourname.filabg_0.0.1-56+debug_iphoneos-arm64.deb
-Size: 11320
-MD5sum: 4004df61727ec0b5de34741bb4667be6
-SHA256: db2fd9868039350d9f497e7810ef142a164da50d975629b4dc1d46e6d952f6c6
-
-Package: dylv.liquidass
-Name: Liquid (Gl)ass
-Description: next level diarrhea
-Maintainer: dylv
-Author: dylv
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
-Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
-Replaces: dylv.blurless
-Conflicts: dylv.blurless
-Architecture: iphoneos-arm64e
-Version: 0.1.1b
-Installed-Size: 8208
-Filename: deb/dylv.liquidass_0.1.1b_iphoneos-arm64e.deb
-Size: 3625422
-MD5sum: 2c68d47f4c1d96aa20a3aa3a15640b1e
-SHA256: 8ec6af38ae57ad53fd1699f797a5fee5dcb1fe6a8c825c96ec024d06c3c73e1a
-
-Package: neofetch
-Maintainer: LF
-Icon: https://repo.cypwn.xyz/packages/NeofetchInstaller-Rootless/icon.png
-Section: System
-Architecture: iphoneos-arm64e
-Version: 1.2.3
-Depends: bash, coreutils, coreutils-bin, darwintools, system-cmds, gawk, grep
-Description: Neofetch是一个用bash编写的命令行系统信息工具。Neofetch以美观和视觉上令人愉悦的方式显示有关您的操作系统、软件和硬件的信息。兼容bash2.3+，LF为它提供了汉化版本！
-Name: Neofetch Installer
-Author: halo_michael
-Filename: deb/neofetch_1.2.3_iphoneos-arm64e.deb
-Size: 85404
-MD5sum: 791b17f68929e3aba90c98ecc198abe1
-SHA256: bf8b4f84d797020ac5bcc7732f80a7a587fbb7f4a8c8289f97f7368b4181666c
+Filename: deb/com.yourname.filabg_0.0.1-57_iphoneos-arm64.deb
+Size: 10880
+MD5sum: 36315d85a1ab9e20eab4f42a07e0a9f2
+SHA256: 0e60f67fc23b1b3db730d5f8373a8e79a4aebe7874bdea3e43612bf4a152912b
