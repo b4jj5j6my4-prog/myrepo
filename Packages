@@ -1,17 +1,17 @@
 Package: com.fate.filzabackground
 Name: Filza Background
 Description: Add a background image manager to Filza settings. Supports Photos and Files app image import.
-Maintainer: me
-Author: me
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64e
 Version: 1.1.1-23+debug
 Installed-Size: 176
 Filename: deb/com.fate.filzabackground_1.1.1-23+debug_iphoneos-arm64e.deb
-Size: 18476
-MD5sum: b2c95e5a5f68e0ff22d8032230c3e66c
-SHA256: c98be33b20fc7152eb78184f42213d4f37cdadcbfeb30406712bf98cc53ebe57
+Size: 14624
+MD5sum: c9e0e4bfd629c868035149b70fe46755
+SHA256: 98b23a0ea8c2d13c87cda0b68659920ad91123d46c5cb892c56e1f24ef99457b
 
 Package: com.vv.filzaseparator
 Name: Filza去分割线VV
@@ -31,16 +31,16 @@ SHA256: 7c654c86899bbba3ac894d475753d147506df9cfa487a4ae46d0dbd07cf7d1da
 Package: com.yourcompany.filzacn
 Name: FilzaCN
 Description: FilzaDirProbe 汉化
-Maintainer: you
-Author: you
+Maintainer:  时间会惩罚我
+Author:  时间会惩罚我
 Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 1.0-1+debug
 Installed-Size: 76
 Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
-Size: 4168
-MD5sum: 26682e208abdb8d9ae9034f5ee755f0c
-SHA256: cfca716cdc6abad91134ac8e0d9efbe448b13367227c1d72b55bb415b8786041
+Size: 4180
+MD5sum: 668df6c09e8b1c16b80651e48f38ab59
+SHA256: b46c2e868866704f7589a46fd04c3cd6d127067be803ec59d43b51be82776de3
 
 Package: com.yourname.filabg
 Name: FilaBG
