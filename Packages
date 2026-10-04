@@ -92,18 +92,18 @@ SHA256: cfca716cdc6abad91134ac8e0d9efbe448b13367227c1d72b55bb415b8786041
 
 Package: com.yourname.filabg
 Name: FilaBG
-Description: 给 Fila 文件 管理器添加自定义背景图，放图路径在jb/Documents/FilaBG 里浅色模式命名为bg_light.png 深色模式是bg_dark.png  roothide 是 jbroot/Documents/FilaBG 文件夹里
-Maintainer:  时间会惩罚我
-Author: 时间会惩罚我
+Description: 给 Fila 文件管理器添加自定义背景图
+Maintainer: yourname
+Author: yourname
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 0.0.1-51
+Version: 0.0.1-56+debug
 Installed-Size: 84
-Filename: deb/com.yourname.filabg_0.0.1-51_iphoneos-arm64.deb
-Size: 10548
-MD5sum: c60d06c7ae3343a925169ac2921054a5
-SHA256: cfdd94bec43a3491992f5c1b1ebfc9d39d2ecbbd15e7349decf2a827752c0c4a
+Filename: deb/com.yourname.filabg_0.0.1-56+debug_iphoneos-arm64.deb
+Size: 11320
+MD5sum: 4004df61727ec0b5de34741bb4667be6
+SHA256: db2fd9868039350d9f497e7810ef142a164da50d975629b4dc1d46e6d952f6c6
 
 Package: dylv.liquidass
 Name: Liquid (Gl)ass
