@@ -44,7 +44,7 @@ SHA256: cfca716cdc6abad91134ac8e0d9efbe448b13367227c1d72b55bb415b8786041
 
 Package: com.yourname.filabg
 Name: FilaBG
-Description: 给 Fila 文件管理器添加自定义背景图放图路径是 var/jbmobile/Documents/FilaBG 里
+Description: 给 Fila 文件管理器添加自定义背景图放图路径是 var/jbmobile/Documents/FilaBG 里浅色模式命名为 bg_light 深色模式命名为 bg_dark
 Maintainer:时间会惩罚我
 Author:时间会惩罚我
 Section: Tweaks
@@ -53,6 +53,6 @@ Architecture: iphoneos-arm64
 Version: 0.0.1-57
 Installed-Size: 84
 Filename: deb/com.yourname.filabg_0.0.1-57_iphoneos-arm64.deb
-Size: 10880
-MD5sum: 36315d85a1ab9e20eab4f42a07e0a9f2
-SHA256: 0e60f67fc23b1b3db730d5f8373a8e79a4aebe7874bdea3e43612bf4a152912b
+Size: 10912
+MD5sum: a2afa96a7d208e95d4e1d4da4b276086
+SHA256: ba15c13189fe53caccc41622286597d1cc752b8b9260cd02724361084f1511a8
