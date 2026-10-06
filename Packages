@@ -13,6 +13,36 @@ Size: 14624
 MD5sum: c9e0e4bfd629c868035149b70fe46755
 SHA256: 98b23a0ea8c2d13c87cda0b68659920ad91123d46c5cb892c56e1f24ef99457b
 
+Package: com.shijian.filatofilza
+Name: FilaToFilza
+Description: Fila 长按菜单加"用 Filza 打开"
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.0.1-17
+Installed-Size: 76
+Filename: deb/com.shijian.filatofilza_0.0.1-17_iphoneos-arm64.deb
+Size: 6968
+MD5sum: f4b5e08a1070915cb12ae94ae21bfe03
+SHA256: 672b970d6e4b7bdf0800e757702c83785868f3c2c0110986f8452a63ce6d0d36
+
+Package: com.shijian.filzatofila
+Name: FilzaToFila
+Description: Filza 长按菜单加"用 Fila 打开"
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.0.1-2
+Installed-Size: 76
+Filename: deb/com.shijian.filzatofila_0.0.1-2_iphoneos-arm64.deb
+Size: 5912
+MD5sum: b9eda413f6f185ac10f63b511b19903c
+SHA256: c399c83c02f4626b859646eced93880321c086acc8dc4583b59ab85d1192e615
+
 Package: com.vv.filzaseparator
 Name: Filza去分割线VV
 Description: Filza全局去除列表分割线
