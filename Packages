@@ -1,65 +1,73 @@
-Package: com.fate.filzabackground
-Name: Filza Background
-Version: 1.1.1-23+debug
-Architecture: iphoneos-arm64e
-Section: Tweaks
-Maintainer: 时间会惩罚我
-Author: 时间会惩罚我
-Depends: mobilesubstrate
-Filename: deb/com.fate.filzabackground_1.1.1-23+debug_iphoneos-arm64e.deb
-Description: Add a background image manager to Filza settings. Supports Photos and Files app image import.
-
 Package: com.shijian.filatofilza
 Name: FilaToFilza
-Version: 0.0.1-17
-Architecture: iphoneos-arm64
-Section: Tweaks
+Description: Fila 长按菜单加"用 Filza 打开"
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
+Section: Tweaks
 Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.0.1-17
+Installed-Size: 76
 Filename: deb/com.shijian.filatofilza_0.0.1-17_iphoneos-arm64.deb
-Description: Fila 长按菜单加"用 Filza 打开"
+Size: 6968
+MD5sum: f4b5e08a1070915cb12ae94ae21bfe03
+SHA256: 672b970d6e4b7bdf0800e757702c83785868f3c2c0110986f8452a63ce6d0d36
+
+Package: com.shijian.filzabarbg
+Name: Filza Background
+Description: 为 Filza 添加自定义背景图管理。支持从相册或文件 App 选择图片，可分别设置浅色/深色背景，可调透明度与显示方式。
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Installed-Size: 240
+Filename: deb/com.shijian.filzabarbg_2.0.0_iphoneos-arm64e.deb
+Size: 25916
+MD5sum: 343cde28f08a75b921c7ceaeeb94d706
+SHA256: 108b781ee290a1e532c486bd8064a7c5721f8a7fa37729de59e9dfd4d03881f0
 
 Package: com.shijian.filzatofila
 Name: FilzaToFila
-Version: 0.0.1-2
-Architecture: iphoneos-arm64
-Section: Tweaks
+Description: Filza 长按菜单加"用 Fila 打开"
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
-Depends: mobilesubstrate
-Filename: deb/com.shijian.filzatofila_0.0.1-2_iphoneos-arm64.deb
-Description: Filza 长按菜单加"用 Fila 打开"
-
-Package: com.vv.filzaseparator
-Name: Filza去分割线VV
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm64
 Section: Tweaks
-Maintainer: VV
-Author: VV
 Depends: mobilesubstrate
-Filename: deb/com.vv.filzaseparator_1.0.0-2+debug_iphoneos-arm64.deb
-Description: Filza全局去除列表分割线
+Architecture: iphoneos-arm64
+Version: 0.0.1-2
+Installed-Size: 76
+Filename: deb/com.shijian.filzatofila_0.0.1-2_iphoneos-arm64.deb
+Size: 5912
+MD5sum: b9eda413f6f185ac10f63b511b19903c
+SHA256: c399c83c02f4626b859646eced93880321c086acc8dc4583b59ab85d1192e615
 
 Package: com.yourcompany.filzacn
 Name: FilzaCN
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64
-Section: Tweaks
-Maintainer: 时间会惩罚我
-Author: 时间会惩罚我
-Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
 Description: FilzaDirProbe 汉化
+Maintainer:  时间会惩罚我
+Author:  时间会惩罚我
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0-1+debug
+Installed-Size: 76
+Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
+Size: 4180
+MD5sum: 668df6c09e8b1c16b80651e48f38ab59
+SHA256: b46c2e868866704f7589a46fd04c3cd6d127067be803ec59d43b51be82776de3
 
 Package: com.yourname.filabg
 Name: FilaBG
-Version: 0.0.1-57
-Architecture: iphoneos-arm64
-Section: Tweaks
-Maintainer: 时间会惩罚我
-Author: 时间会惩罚我
-Depends: mobilesubstrate
-Filename: deb/com.yourname.filabg_0.0.1-57_iphoneos-arm64.deb
 Description: 给 Fila 文件管理器添加自定义背景图放图路径是 var/jbmobile/Documents/FilaBG 里浅色模式命名为 bg_light 深色模式命名为 bg_dark
-
+Maintainer:时间会惩罚我
+Author:时间会惩罚我
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.0.1-57
+Installed-Size: 84
+Filename: deb/com.yourname.filabg_0.0.1-57_iphoneos-arm64.deb
+Size: 10912
+MD5sum: a2afa96a7d208e95d4e1d4da4b276086
+SHA256: ba15c13189fe53caccc41622286597d1cc752b8b9260cd02724361084f1511a8
