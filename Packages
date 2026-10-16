@@ -1,3 +1,16 @@
+Package: com.shijian.filacanvas
+Name: Fila Canvas
+Version: 1.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, roothide
+Description: Custom background and in-app settings for Fila
+Maintainer: shijian
+Section: Tweaks
+Filename: deb/FilaCanvas_1.2_iphoneos-arm64e.deb
+Size: 19864
+MD5sum: 55e97a7124982d37951c54a17c309336
+SHA256: 59194d157f0719b92de322c34600b52739193b5f1860478cb3d671abf7496148
+
 Package: com.shijian.filatofilza
 Name: FilaToFilza
 Description: Fila 长按菜单加"用 Filza 打开"
@@ -56,18 +69,3 @@ Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
 Size: 4180
 MD5sum: 668df6c09e8b1c16b80651e48f38ab59
 SHA256: b46c2e868866704f7589a46fd04c3cd6d127067be803ec59d43b51be82776de3
-
-Package: com.yourname.filabg
-Name: FilaBG
-Description: 给 Fila 文件管理器添加自定义背景图放图路径是 var/jbmobile/Documents/FilaBG 里浅色模式命名为 bg_light 深色模式命名为 bg_dark
-Maintainer:时间会惩罚我
-Author:时间会惩罚我
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Version: 0.0.1-57
-Installed-Size: 84
-Filename: deb/com.yourname.filabg_0.0.1-57_iphoneos-arm64.deb
-Size: 10912
-MD5sum: a2afa96a7d208e95d4e1d4da4b276086
-SHA256: ba15c13189fe53caccc41622286597d1cc752b8b9260cd02724361084f1511a8
