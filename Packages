@@ -28,18 +28,17 @@ SHA256: 672b970d6e4b7bdf0800e757702c83785868f3c2c0110986f8452a63ce6d0d36
 
 Package: com.shijian.filzabarbg
 Name: Filza Background
-Description: 为 Filza 添加自定义背景图管理。支持从相册或文件 App 选择图片，可分别设置浅色/深色背景，可调透明度与显示方式。
+Version: 8.3.3
+Architecture: iphoneos-arm64e
+Description: Filza 自定义背景图插件（浅色/深色、透明度、模糊、显示方式、主题色）
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
 Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64e
-Version: 2.0.0
-Installed-Size: 240
-Filename: deb/com.shijian.filzabarbg_2.0.0_iphoneos-arm64e.deb
-Size: 25916
-MD5sum: 343cde28f08a75b921c7ceaeeb94d706
-SHA256: 108b781ee290a1e532c486bd8064a7c5721f8a7fa37729de59e9dfd4d03881f0
+Depends: mobilesubstrate, roothide
+Filename: deb/com.shijian.filzabarbg_8.3.3_iphoneos-arm64e.deb
+Size: 61820
+MD5sum: 3df505de4d02b6215635aa44a71efaa1
+SHA256: 558198173dac640271337753001148d126f4ea52039ccd6302a2e87c0af51521
 
 Package: com.shijian.filzatofila
 Name: FilzaToFila
