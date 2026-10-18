@@ -11,6 +11,19 @@ Size: 19864
 MD5sum: 55e97a7124982d37951c54a17c309336
 SHA256: 59194d157f0719b92de322c34600b52739193b5f1860478cb3d671abf7496148
 
+Package: com.shijian.filzabarbg.source
+Name: FilzaBackground Source
+Version: 8.3.3
+Architecture: iphoneos-arm64e
+Section: Development
+Description: FilzaBackground 源码（8.3.3）
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Filename: deb/FilzaBackground-source_8.3.3_iphoneos-arm64e.deb
+Size: 24060
+MD5sum: c407ca36c5e35cc4670f5e4a0058e7a3
+SHA256: bb45f5cec9b54e102c6edce8905e31c190921e606077abbaecc9b97638506796
+
 Package: com.shijian.filatofilza
 Name: FilaToFilza
 Description: Fila 长按菜单加"用 Filza 打开"
