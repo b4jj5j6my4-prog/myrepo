@@ -24,20 +24,46 @@ Size: 24060
 MD5sum: c407ca36c5e35cc4670f5e4a0058e7a3
 SHA256: bb45f5cec9b54e102c6edce8905e31c190921e606077abbaecc9b97638506796
 
-Package: com.shijian.filatofilza
-Name: FilaToFilza
-Description: Fila 长按菜单加"用 Filza 打开"
+Package: com.shijian.filzabeauty
+Name: Filza Beauty
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, roothide
+Section: Tweaks
+Maintainer: shijian
+Description: Glow ripple and neon for Filza with in-app settings
+Filename: deb/FilzaBeauty_1.0.3_iphoneos-arm64e.deb
+Size: 18520
+MD5sum: 3f652e78d493d94c35e64534a6fbe368
+SHA256: 76dff2e56b3ba66364a85699e72ed52cd605c3576c854c9be65bc2c210f77201
+
+Package: shijian.filzabatchextension
+Name: Filza 批量改扩展名
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, roothide, firmware (>= 15.0)
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
 Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Version: 0.0.1-17
-Installed-Size: 76
-Filename: deb/com.shijian.filatofilza_0.0.1-17_iphoneos-arm64.deb
-Size: 6968
-MD5sum: f4b5e08a1070915cb12ae94ae21bfe03
-SHA256: 672b970d6e4b7bdf0800e757702c83785868f3c2c0110986f8452a63ce6d0d36
+Description: Rename extensions of selected local files in Filza with preview.
+Filename: deb/ShijianFilzaBatchExtension_0.1.0_iphoneos-arm64e.deb
+Size: 18702
+MD5sum: e8241656c3c77461b2406fb0f116cde0
+SHA256: 01d80e965313145af14aa20bfe41f5222171cfd7baaa5f685c590727c4f40ec4
+
+Package: com.shijian.sileosourcepin
+Name: Sileo 源置顶
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, roothide, firmware (>= 15.0)
+Section: Tweaks
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Description: Pin and rearrange Sileo sources in the sources tab.
+Filename: deb/ShijianSileoSourcePin_0.1.1_iphoneos-arm64e.deb
+Size: 21576
+MD5sum: d45642581b372bb83d1e2de18cca6dcd
+SHA256: fda5143e826a44a42610670108f57d76dae5286da879753c48ba2b2cc217c89d
 
 Package: com.shijian.filzabarbg
 Name: Filza Background
@@ -53,21 +79,6 @@ Size: 61820
 MD5sum: 3df505de4d02b6215635aa44a71efaa1
 SHA256: 558198173dac640271337753001148d126f4ea52039ccd6302a2e87c0af51521
 
-Package: com.shijian.filzatofila
-Name: FilzaToFila
-Description: Filza 长按菜单加"用 Fila 打开"
-Maintainer: 时间会惩罚我
-Author: 时间会惩罚我
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Version: 0.0.1-2
-Installed-Size: 76
-Filename: deb/com.shijian.filzatofila_0.0.1-2_iphoneos-arm64.deb
-Size: 5912
-MD5sum: b9eda413f6f185ac10f63b511b19903c
-SHA256: c399c83c02f4626b859646eced93880321c086acc8dc4583b59ab85d1192e615
-
 Package: com.yourcompany.filzacn
 Name: FilzaCN
 Description: FilzaDirProbe 汉化
@@ -81,3 +92,4 @@ Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
 Size: 4180
 MD5sum: 668df6c09e8b1c16b80651e48f38ab59
 SHA256: b46c2e868866704f7589a46fd04c3cd6d127067be803ec59d43b51be82776de3
+
