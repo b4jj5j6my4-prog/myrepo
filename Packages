@@ -51,19 +51,21 @@ Size: 18702
 MD5sum: e8241656c3c77461b2406fb0f116cde0
 SHA256: 01d80e965313145af14aa20bfe41f5222171cfd7baaa5f685c590727c4f40ec4
 
-Package: com.shijian.sileosourcepin
-Name: Sileo 源置顶
-Version: 0.1.1
+Package: shijian.sileosourcegroups
+Name: Sileo 源管理
+Version: 0.1.3
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, roothide, firmware (>= 15.0)
+Conflicts: com.shijian.sileosourcepin
+Replaces: com.shijian.sileosourcepin
 Section: Tweaks
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
-Description: Pin and rearrange Sileo sources in the sources tab.
-Filename: deb/ShijianSileoSourcePin_0.1.1_iphoneos-arm64e.deb
-Size: 21576
-MD5sum: d45642581b372bb83d1e2de18cca6dcd
-SHA256: fda5143e826a44a42610670108f57d76dae5286da879753c48ba2b2cc217c89d
+Description: 分组、置顶、搜索、排序、移动和批量删除 Sileo 软件源。
+Filename: deb/ShijianSileoSourceGroups_0.1.3_iphoneos-arm64e.deb
+Size: 55638
+MD5sum: 4b53f5d0c609b75c9a749a2e9bab32ec
+SHA256: 4eabae943b6f197e724b7a3d174c824c75f12a04b9e31f3d024320621ff2a520
 
 Package: com.shijian.filzabarbg
 Name: Filza Background
