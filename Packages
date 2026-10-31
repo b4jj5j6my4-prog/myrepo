@@ -79,17 +79,3 @@ Size: 61820
 MD5sum: 3df505de4d02b6215635aa44a71efaa1
 SHA256: 558198173dac640271337753001148d126f4ea52039ccd6302a2e87c0af51521
 
-Package: com.yourcompany.filzacn
-Name: FilzaCN
-Description: FilzaDirProbe 汉化
-Maintainer:  时间会惩罚我
-Author:  时间会惩罚我
-Section: Tweaks
-Architecture: iphoneos-arm64
-Version: 1.0-1+debug
-Installed-Size: 76
-Filename: deb/com.yourcompany.filzacn_1.0-1+debug_iphoneos-arm64.deb
-Size: 4180
-MD5sum: 668df6c09e8b1c16b80651e48f38ab59
-SHA256: b46c2e868866704f7589a46fd04c3cd6d127067be803ec59d43b51be82776de3
-
