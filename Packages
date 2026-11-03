@@ -84,6 +84,22 @@ Size: 56764
 MD5sum: fc968f655f1fbea04dec744f3f17d767
 SHA256: 36f7fc306edad1729dd1c017902341454c07b80b3763f12510afd9ab420e72d9
 
+Package: shijian.sileosourcegroups
+Name: Sileo 源管理
+Version: 0.1.6
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, roothide, firmware (>= 15.0)
+Conflicts: com.shijian.sileosourcepin
+Replaces: com.shijian.sileosourcepin
+Section: Tweaks
+Maintainer: 时间会惩罚我
+Author: 时间会惩罚我
+Description: 分组、置顶、搜索、排序、移动和批量删除 Sileo 软件源。
+Filename: deb/ShijianSileoSourceGroups_0.1.6_iphoneos-arm64e.deb
+Size: 56796
+MD5sum: 06caa6f87b8164584207406ee576e270
+SHA256: f6cbb7dd3f9a405ecaeb07c2502905b76b9851067f67e4a8014cd9b881f23e10
+
 Package: com.shijian.filzabarbg
 Name: Filza Background
 Version: 8.3.3
