@@ -95,6 +95,7 @@ Section: Tweaks
 Maintainer: 时间会惩罚我
 Author: 时间会惩罚我
 Description: 分组、置顶、搜索、排序、移动和批量删除 Sileo 软件源。
+SileoDepiction: https://b4jj5j6my4-prog.github.io/myrepo/depictions/shijian.sileosourcegroups.json
 Filename: deb/ShijianSileoSourceGroups_0.1.6_iphoneos-arm64e.deb
 Size: 56796
 MD5sum: 06caa6f87b8164584207406ee576e270
